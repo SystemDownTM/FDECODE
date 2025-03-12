@@ -1,16 +1,53 @@
-# myapp
+## 🚀 FDECODE – Base64 Encoder & Decoder  
 
-A new Flutter project.
+FDECODE is a **simple and fast** app for encoding and decoding **Base64** text.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features  
+✅ **Encode** text to Base64  
+✅ **Decode** Base64 to original text  
+✅ **Modern & clean UI** 🎨  
+✅ **Copy & paste support**  
 
-A few resources to get you started if this is your first Flutter project:
+---
+## 📦 Release  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🔥 Latest Version: [Download](https://github.com/systemdownTM/FDECODE/releases)  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📥 Installation & Run for dev
+1️⃣ Install Flutter on your system.  
+2️⃣ Clone this repository:  
+   ```sh
+   git clone https://github.com/systemdownTM/FDECODE.git
+   ```
+3️⃣ Navigate to the project folder:  
+   ```sh
+   cd FDECODE
+   ```
+4️⃣ Install dependencies:  
+   ```sh
+   flutter pub get
+   ```
+5️⃣ Run the app:  
+   ```sh
+   flutter run
+   ```
+
+---
+
+## 🛠 Technologies  
+- **Flutter**  
+- **Dart**  
+- **Material Design**  
+
+---
+
+## 👨‍💻 Developed by  
+**SystemDown** – Created by [SystemDown](https://github.com/systemdownTM)  
+
+📌 **GitHub Repository**: [FDECODE](https://github.com/systemdownTM/FDECODE)  
+
+---
+
+🔥 **FDECODE – Fast & Simple Base64 Encoding/Decoding!** 🚀
